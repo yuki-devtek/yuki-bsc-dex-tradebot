@@ -1,4 +1,4 @@
-# bsc-dex-trade-bot-super-trend
+# BSC Dex Trade Bot
 
 This is a trade bot using super trend strategy to buy and sell at dex exchanges at BSC
 
